@@ -1,0 +1,15 @@
+package spring_01;
+
+public class trackCoach implements Coach {
+
+	@Override
+	public String getdailyworkout() {
+		return "run a hard 5k";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		
+		return null;
+	}
+}

@@ -1,0 +1,11 @@
+package spring_01;
+
+public class trackCoach implements Coach {
+
+	@Override
+	public String getdailyworkout() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

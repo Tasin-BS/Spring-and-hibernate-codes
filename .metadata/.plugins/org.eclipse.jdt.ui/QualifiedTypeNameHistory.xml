@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="spring_01.BaseballCoach"/>
+    <fullyQualifiedTypeName name="spring_01.trackCoach"/>
+    <fullyQualifiedTypeName name="spring_01.FortuneService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="spring_01.CricketCoach"/>
+</qualifiedTypeNameHistroy>

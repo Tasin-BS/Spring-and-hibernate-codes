@@ -1,0 +1,7 @@
+package spring_01;
+
+public class BaseballCoach {
+       public String getdailyworkout() {
+    	   	return "Spend 30 minutes on batting practice";
+       }
+}

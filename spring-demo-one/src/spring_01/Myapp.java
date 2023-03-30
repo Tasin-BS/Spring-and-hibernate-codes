@@ -1,0 +1,12 @@
+package spring_01;
+
+public class Myapp {
+
+	public static void main(String[] args) {
+		
+        Coach theCoach = new trackCoach();
+		System.out.println(theCoach.getdailyworkout());
+
+	}
+
+}
