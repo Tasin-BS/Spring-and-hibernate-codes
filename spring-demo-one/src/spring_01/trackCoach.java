@@ -21,4 +21,14 @@ public class trackCoach implements Coach {
 		
 		return "just do it :" + fortuneService.getFortune();
 	}
+	
+	// add an init method
+	public void domystartupstuff() {
+		System.out.println("TrackCoach : inside method domystartupstuff");
+	}
+	
+	//add a destroy method 
+	public void domycleanupstuff() {
+		System.out.println("TrackCoach : inside method domycleanupstuff");
+	}
 }

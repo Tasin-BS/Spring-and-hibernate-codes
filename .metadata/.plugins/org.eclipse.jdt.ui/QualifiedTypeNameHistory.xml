@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="spring_01.BaseballCoach"/>
     <fullyQualifiedTypeName name="spring_01.trackCoach"/>
     <fullyQualifiedTypeName name="spring_01.FortuneService"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="spring_01.CricketCoach"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="spring.demo.annotation1.Coach"/>
+    <fullyQualifiedTypeName name="org.springframework.core.type.filter.AbstractClassTestingTypeFilter"/>
+    <fullyQualifiedTypeName name="spring.demo.annotation1.tennisCoach"/>
+    <fullyQualifiedTypeName name="spring.demo.annotation1.FortuneService"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.context.Theme"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="spring.demo.annotation1.RandomFortuneService"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
