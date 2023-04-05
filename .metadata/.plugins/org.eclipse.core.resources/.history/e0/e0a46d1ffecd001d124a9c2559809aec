@@ -1,9 +1,0 @@
-package spring_01;
-
-public class BaseballCoach implements Coach {
-	
-	   @Override
-       public String getdailyworkout() {
-    	   	return "Spend 30 minutes on batting practice";
-       }
-}
